@@ -52,13 +52,14 @@ I'm a passionate software developer with a focus on [Your Specialization, e.g., 
 
 ## 📅 Project
 
-| 연도 | 구분 | 프로젝트 명     | 상세                 |
-|------|----------------------|-------------------------------------------------------------|
-| 2023 | WEB | MyZ |  |
-| 2023 | WEB | 195 |  |
-| 2024 | WEB | openhouse score board |  |
-| 2024 | WEB | HearUS |  |
-| 2024 | WEB | al-T |
+| 연도 | 구분 | 프로젝트 명          | 상세                 |
+|------|------|----------------------|----------------------|
+| 2023 | WEB  | MyZ                  |                      |
+| 2023 | WEB  | 195                  |                      |
+| 2024 | WEB  | openhouse score board|                      |
+| 2024 | WEB  | HearUS               |                      |
+| 2024 | WEB  | al-T                 |                      |
+
 
 
 
