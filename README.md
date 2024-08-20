@@ -8,21 +8,9 @@ I'm a passionate software developer with a focus on [Your Specialization, e.g., 
 - **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 
-### 📈 GitHub Stats
+### 📈 Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kan0202)](https://solved.ac/kan0202)
-
-### 💬 Ask me about
-- [Topic you're good at, e.g., Web Development, Open Source, etc.]
-
-### 🎉 Fun Facts
-- I love [Hobby, e.g., playing guitar, traveling, etc.].
-- I have [Interesting Fact, e.g., 2 cats, visited 20 countries, etc.].
-
-### 🎯 Goals for 2024
-- Contribute more to open-source projects.
-- Learn more about [New Technology or Area].
-- [Your Personal Goal, e.g., Write a technical blog post every month].
 
 ---
 
