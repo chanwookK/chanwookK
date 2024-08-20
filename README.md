@@ -9,7 +9,8 @@ I'm a passionate software developer with a focus on [Your Specialization, e.g., 
 
 
 ### 📈 GitHub Stats
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 ### 💬 Ask me about
 - [Topic you're good at, e.g., Web Development, Open Source, etc.]
 
