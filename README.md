@@ -2,10 +2,9 @@
 
 I'm a passionate software developer with a focus on [Your Specialization, e.g., Web Development, Machine Learning, etc.]. I love to build things that make a difference, whether it's an open-source project, a tool to help developers, or a cool new app.
 
-### 🛠️ Tech Stack
+### 🛠️ Major Tech Stack
 - **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-- **Frameworks:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- **Backend:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![H2](https://img.shields.io/badge/H2-003545?style=flat&logo=h2&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=java&logoColor=white)
 - **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 
@@ -30,10 +29,10 @@ I'm a passionate software developer with a focus on [Your Specialization, e.g., 
 | 기간       | 활동명                   | 상세 설명                                                   |
 |------------|--------------------------|-------------------------------------------------------------|
 | 2022.01 ~ 2023.01 | 건국대학교 천문동아리 우주탐구회 회장 |  |
-| 2022.12 ~ 2023.11 | 건국대학교 제39대 동아리연합회 "새봄" 회장 | 건국대학교 중앙동아리를 위한 제반업무 및 학생회 업무 총괄. 60개 이상의 동아리를 대표하여 예산 관리, 행사 기획, 동아리 간의 조율 및 소통, 정책 수립을 담당  |
+| 2022.12 ~ 2023.11 | 건국대학교 제39대 동아리연합회 "새봄" 회장 | 건국대학교 중앙동아리를 위한 제반업무 및 학생회 업무 총괄. 60개 이상의 동아리를 대표하여 예산 관리, 행사 기획, 동아리 간의 의견 조율 및 학교와의 소통, 관련 정책 수립을 담당  |
 | 2023.11 ~ 2023.12 | 건국대학교 제55대 총학생회 선거운동본부 부후보  |  |
 | 2024 ~ | 건국대학교 제40대 동아리연합회 "물결" 행사기획국장  |  |
-| 2023.03 ~ 2023.12 | 멋쟁이사자처럼 11기 BE-Spring 수료  |
+| 2023.03 ~ 2023.12 | 멋쟁이사자처럼 11기 BE-Spring 수료  |  |
 | 2024 ~  | 멋쟁이사자처럼 12기 BE-Spring 운영진 및 부대표 |  |
 
 
