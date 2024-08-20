@@ -4,23 +4,23 @@
 - **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 
-
+<br>
 ### 📚 Education
 - Konkuk University 21
 - Computer Science & Engineering Major
 
-
+<br>
 
 ### 📈 Solved.ac
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kan0202)](https://solved.ac/kan0202)
 
-
+<br>
 
 ---
 
 
-
+<br>
 ## 📅 Experience & Activities
 
 | 기간       | 활동명                   | 상세 설명                                                   |
