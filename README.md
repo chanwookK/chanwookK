@@ -8,8 +8,8 @@ I'm a passionate software developer with a focus on [Your Specialization, e.g., 
 - **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 ### 📚 Education
-- Konkuk University. 21th
-- Major Computer Science & Engineering
+Konkuk University 21
+Computer Science & Engineering Major
 
 ### 📈 Solved.ac
 [![Solved.ac
