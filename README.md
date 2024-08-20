@@ -10,23 +10,9 @@ I'm a passionate software developer with a focus on [Your Specialization, e.g., 
 
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chanwookK&show_icons=true&theme=radical)
-
-### 🌱 I'm currently learning
-- [New Technology or Language] ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-- Improving my [Specific Skill, e.g., Data Structures & Algorithms]
 
 ### 💬 Ask me about
 - [Topic you're good at, e.g., Web Development, Open Source, etc.]
-
-### 📫 How to reach me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-
-### 🔗 Projects
-- [Project 1](https://github.com/yourusername/project1): A brief description of what this project does.
-- [Project 2](https://github.com/yourusername/project2): A brief description of what this project does.
 
 ### 🎉 Fun Facts
 - I love [Hobby, e.g., playing guitar, traveling, etc.].
@@ -46,6 +32,7 @@ I'm a passionate software developer with a focus on [Your Specialization, e.g., 
 | 2022.01 ~ 2023.01 | 건국대학교 천문동아리 우주탐구회 회장 |  |
 | 2022.12 ~ 2023.11 | 건국대학교 제39대 동아리연합회 "새봄" 회장 |  |
 | 2023.11 ~ 2023.12 | 건국대학교 제55대 총학생회 선거운동본부 부후보  |  |
+| 2024 ~ | 건국대학교 제40대 동아리연합회 "물결" 행사기획국장  |  |
 | 2023.03 ~ 2023.12 | 멋쟁이사자처럼 11기 BE-Spring 수료  |
 | 2024 ~  | 멋쟁이사자처럼 12기 BE-Spring 운영진 및 부대표 |  |
 
