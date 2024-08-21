@@ -44,8 +44,8 @@
 |------|------|----------------------|----------------------|-----------------|
 | 2023 | WEB  | MyZ                  | https://github.com/chanwookK/myz_KUHackathonTeamRemember/tree/main                    | "함께하는 운동,​ 기록하고 공유하는 피트니스 서비스, MyZ(마이짐)" 제1회 건국대학교 해커톤 오케스트라: 우리들의 1악장 출품작. Spring, React 프레임워크로 개발. |
 | 2023 | WEB  | 195                  |                      |                 |
-| 2024 | WEB  | openhouse score board|                      |                 |
-| 2024(진행중) | WEB  | Hearus               |                      |                 |
+| 2024 | WEB  | openhouse score board| https://github.com/chanwookK/open-house-score-board_KUClubUnion                     |                 |
+| 2024(진행중) | WEB  | Hearus               | https://github.com/TEAM-Hearus                     |                 |
 | 2024 | WEB  | al-T                 | https://github.com/TEAM-ULURU        | "안전하고 건강한 음주생활의 시작 al-T" 멋쟁이사자처럼 12기 중앙 해커톤 출품작. Spring, Fast-API, React 프레임워크로 개발. |
 
 
