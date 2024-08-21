@@ -31,13 +31,13 @@
 
 ## Project
 
-| 연도 | 구분 | 프로젝트 명          | 링크                 |
-|------|------|----------------------|----------------------|
-| 2023 | WEB  | MyZ                  |                      |
-| 2023 | WEB  | 195                  |                      |
-| 2024 | WEB  | openhouse score board|                      |
-| 2024 | WEB  | Hearus               |                      |
-| 2024 | WEB  | al-T                 |https://github.com/TEAM-ULURU        |
+| 연도 | 구분 | 프로젝트 명          | 링크                 | 한줄 소개        |
+|------|------|----------------------|----------------------|-----------------|
+| 2023 | WEB  | MyZ                  |                      |                 |
+| 2023 | WEB  | 195                  |                      |                 |
+| 2024 | WEB  | openhouse score board|                      |                 |
+| 2024(진행중) | WEB  | Hearus               |                      |                 |
+| 2024 | WEB  | al-T                 | https://github.com/TEAM-ULURU        | "안전하고 건강한 음주생활의 시작" 멋쟁이사자처럼 12기 중앙 해커톤 출품작. Spring, Fast-API, React 프레임워크로 개발. |
 
 
 
