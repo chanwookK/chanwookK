@@ -28,8 +28,8 @@
 | 2024    | WEB  | openhouse score board| [GitHub](https://github.com/chanwookK/open-house-score-board_KUClubUnion) | 2024 오픈하우스 기획의 일환으로 진행한 웹 개발 프로젝트로, 다양한 동아리들의 점수를 실시간으로 공개하고 계산하는 사이트. Spring과 Thymeleaf를 통해 별도의 Front 서버가 없는 단일 WAS로 개발. |
 | 2024 [🏆2024 공개SW 개발자대회 일반부 동상🏆] | WEB  | Hearus               | [GitHub](https://github.com/TEAM-Hearus) | "모두의 들을 권리를 위하여 Hearus" 청각장애 학우들이 더 나은 환경에서 학습하고, 비장애 학우들과의 교육적 불평등을 해소할 수 있도록 하기 위해 인공지능을 활용한 실시간 음성 텍스트 변환과 문제 생성, 하이라이팅 기능을 지닌 웹 서비스. Spring, Fast-API, React 로 개발 |
 | 2024    | WEB  | al-T                 | [GitHub](https://github.com/TEAM-ULURU) | "안전하고 건강한 음주생활의 시작 al-T(alcohol-Tracker)" 멋쟁이사자처럼 12기 중앙 해커톤 출품작. Spring, Fast-API, React 프레임워크로 개발. |
-| 2024 ~  | APP  | Encore                 | [GitHub](https://github.com/TEAM-Encore)) | "진정한 공연 후기를 찾는 커뮤니티 앙코르" IT 연합동아리 IT'S TIME 6기 Team 취뽀단 프로젝트 Spring, React Native 프레임워크로 개발. |
-| 2024 ~ 2025 | REST API Server  | 여기어때                 | [GitHub](https://github.com/How-about-over-there)) | "대규모 트래픽 처리 E-Commerce 프로젝트: 저기 어때" 사용자가 다양한 숙소를 검색하고 예약하며 결제를 완료할 수 있도록 지원하는 플랫폼의 REST API Server |
+| 2024 ~  | APP  | Encore                 | [GitHub](https://github.com/TEAM-Encore) | "진정한 공연 후기를 찾는 커뮤니티 앙코르" IT 연합동아리 IT'S TIME 6기 Team 취뽀단 프로젝트 Spring, React Native 프레임워크로 개발. |
+| 2024 ~ 2025 | REST API Server  | 여기어때                 | [GitHub](https://github.com/How-about-over-there) | "대규모 트래픽 처리 E-Commerce 프로젝트: 저기 어때" 사용자가 다양한 숙소를 검색하고 예약하며 결제를 완료할 수 있도록 지원하는 플랫폼의 REST API Server |
 ## IT & Development Activities
 
 | 기간       | 활동명                   | 상세 설명                                                   |
