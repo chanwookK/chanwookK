@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhzM2Rsenc1Z3F2aXpmanp3N2xvNGp0MHJqeXA5Z2h5aWd1cHpnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" alt="Welcome GIF" />
-</p>
-
-
 ### 🛠️ Major Tech Stack
 - **Languages:**<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
